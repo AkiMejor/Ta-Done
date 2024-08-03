@@ -2,7 +2,9 @@
 
 Ta-Done! is designed to be a user-friendly application with a focus on task listing and schedule organization. Users can easily create, manage, and prioritize tasks within a fun and engaging environment. The app provides a streamlined interface for users to list down their tasks, making it simple to organize their schedules efficiently. Whether it's work-related duties, personal goals, or daily chores, Ta-Done! aims to enhance productivity while maintaining an enjoyable user experience.
 
-	The application aims to provide three (3) key features for its users, namely Task Organization, Productivity Boost, and Time Management. Each feature is essential in allowing users to focus on their specific tasks and prevent distraction or hiccups on their schedules or tasks.
+The application aims to provide three (3) key features for its users, namely Task Organization, Productivity Boost, and Time Management. Each feature is essential in allowing users to focus on their specific tasks and prevent distraction or hiccups on their schedules or tasks.
+
+
 
 # Functionality
 
